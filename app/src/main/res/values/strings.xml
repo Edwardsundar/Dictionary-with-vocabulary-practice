@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">English Dictionary</string>
+    <string name="vocabulary_words">Vocabulary Words</string>
+    <string name="vocabulary_start_with">Vocabulary Start With</string>
+    <string name="search_the_word">Search The Word</string>
+    <string name="search">Search</string>
+    <string name="no_bookmarks_message">You don\'t have any bookmarks\n Click the search button to search a new word and
+        add to your bookmark</string>
+    <string name="exalamation">Exalamation</string>
+    <string name="definition">Definition</string>
+    <string name="example">Example</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="nonu">Noun</string>
+    <string name="verb">Verb</string>
+    <string name="interjection">Interjection</string>
+    <string name="no_audio">https://api.dictionaryapi.dev/media/pronunciations/en/empty-uk.mp3</string>
+
+</resources>
